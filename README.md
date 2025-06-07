@@ -31,5 +31,4 @@ The project presents a side-by-side analysis to help stakeholders make informed 
 
 ---
 
-*For more information or access to the dashboards created in this project, feel free to reach out.*
 
