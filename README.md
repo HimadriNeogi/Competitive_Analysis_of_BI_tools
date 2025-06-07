@@ -1,7 +1,5 @@
 # Competitive Analysis of BI tools
 
-# Business Intelligence Tools Comparison using Superstore Dataset
-
 ##  Project Overview
 
 This project compares the capabilities of major Business Intelligence (BI) tools using the popular **Superstore dataset**. The primary goal is to evaluate and analyze each tool across various dimensions to assist businesses in selecting the most suitable platform for their data analysis needs.
